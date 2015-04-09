@@ -136,6 +136,7 @@ header .intro-text .skills {
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
+        -webkit-overlfow-scrolling: touch;
     }
 
     .navbar-fixed-top.navbar-shrink {
