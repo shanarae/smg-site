@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f1d598f-2c7b-4a15-9723-6b236aae7b49" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.11.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.11.2.min.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="startbootstrap-freelancer.iws" />
@@ -32,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0034965035" vertical-offset="8264" max-vertical-offset="8730">
-              <caret line="551" column="18" selection-start-line="551" selection-start-column="18" selection-end-line="551" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.16083916" vertical-offset="8294" max-vertical-offset="8730">
+              <caret line="556" column="41" selection-start-line="556" selection-start-column="41" selection-end-line="556" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -511,8 +509,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0034965035" vertical-offset="8264" max-vertical-offset="8730">
-          <caret line="551" column="18" selection-start-line="551" selection-start-column="18" selection-end-line="551" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.16083916" vertical-offset="8294" max-vertical-offset="8730">
+          <caret line="556" column="41" selection-start-line="556" selection-start-column="41" selection-end-line="556" selection-end-column="41" />
           <folding />
         </state>
       </provider>
